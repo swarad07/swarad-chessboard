@@ -6,6 +6,6 @@ You can play 2-player chess, with standard chess rules.
 
 Limitations:
 - No clock
-- No scoring
-- Both players have to play on the same window
-- No history and state (The board resets when reloaded)
+- No historical data for each player
+- Both players have to play on the same browser window
+- No state (The board resets when reloaded)
